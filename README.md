@@ -1,4 +1,4 @@
-Hello World👋 , I'm Oumayma TOUATTI a Data Enthusiast 😍
+Hello World👋 , I'm Oumayma TOUATTI a Data Enthusiast 😍 👩‍💻 🤖
 
 
 📊 - I have deep knowledge in the fields of Data science , Artificial intelligence , Machine Learning , Deep Learning , Data Mining , Algorithmic , Programmation, Mathematics , Statistics , Business Intelligence , Networking , Linux .....
