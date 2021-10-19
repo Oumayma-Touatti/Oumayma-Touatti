@@ -1,16 +1,42 @@
-### Hi there 👋
+Hello World👋 , I'm Oumayma TOUATTI a Data Enthusiast 😍
 
-<!--
-**Oumayma-Touatti/Oumayma-Touatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 - I have deep knowledge in the fields of Data science , Artificial intelligence , Machine Learning , Deep Learning , Data Mining , Algorithmic , Programmation, Mathematics , Statistics , Business Intelligence , Networking , Linux .....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎤 - I Speak fluently French, English & Arabic
+
+🔎 - I am open to any new challenges and opportunities in the field of Data Science to improve my skills!
+
+
+Email address: oumaymatouatti12@gmail.com
+
+Linkedin: https://www.linkedin.com/in/oumayma-touatti-52a5711a8/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
